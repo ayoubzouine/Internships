@@ -1,0 +1,19 @@
+✓ In order to get my friend I will follow the next steps:
+1. I start by picking a direction and driving in that direction on the highway. 
+Let's assume I choose to go forward initially.
+
+2. Then I drive for a predetermined distance or time interval, ensuring that I
+can easily return to my starting point if needed. This distance or time 
+interval should be reasonable and allow me to cover a substantial portion of 
+the highway.
+
+3. After reaching the predetermined distance or time interval, I turn around 
+and start driving in the opposite direction, heading back towards my original 
+starting point on the highway.
+
+4. Then I Drive for the same distance or time interval in the opposite direction 
+from step 2.
+
+5. Finally Repeating steps 2 to 4 until I find my friend's car. Each time i
+complete a round trip (forward and backward), I will double the distance or 
+time interval before turning around.
