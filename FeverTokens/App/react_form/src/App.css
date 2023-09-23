@@ -1,0 +1,16 @@
+body{
+  background-color: #0e101c;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.my-btn{
+  background-color: #db6390;
+  color: #ffffff;
+  height: 60px;
+  letter-spacing: 5px;
+}
+
+.file-input{
+  background-color: #0e101c;
+  color: #ffffff;
+}

@@ -1,0 +1,1 @@
+Some folders are used only to explain the structure of the project, so they are empty.
