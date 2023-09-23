@@ -1,4 +1,3 @@
-package org.example;
 
 public class Algo {
     public static void main(String[] args) {
